@@ -28,7 +28,7 @@ public class ConfigManager {
         }
 
         if (dir != null && !dir.isEmpty()) {
-            File dirFolder = new File("plugins" + File.separator + "FusionBroadcast" + File.separator + dir);
+            File dirFolder = new File("plugins" + File.separator + "FusionBroadcaster" + File.separator + dir);
             if (!dirFolder.exists()) {
                 dirFolder.mkdir();
             }
