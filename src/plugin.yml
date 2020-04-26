@@ -1,0 +1,4 @@
+name: FusionBroadcaster
+main: fusionbroadcast.main.Main
+version: 1.0
+author: Glazegan

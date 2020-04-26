@@ -1,0 +1,23 @@
+message-delay: 360
+player-amount-check: true
+play-mc-sound: NOTE_PLING
+play-sharp-instrument:
+  instrument: none
+  tone: none
+  octave: 0
+play-flat-instrument:
+  instrument: none
+  tone: none
+  octave: 0
+play-natural-instrument:
+  instrument: none
+  tone: none
+  octave: 0
+broadcast:
+  messages:
+   - '&8&l&m-------------------------------------------------&r %n&r %n                                        &b&lGummyPvP &r %n &7            Donating (&b/buy&7) will help us buy better equipment! %n&r %n&8&l&m-------------------------------------------------&r'
+   - '&8&l&m-------------------------------------------------&r %n&r %n                                        &b&lGummyPvP &r %n &7          Beware that there is refill stations scattered around! %n&r %n&8&l&m-------------------------------------------------&r'
+   - '&8&l&m-------------------------------------------------&r %n&r %n                                        &b&lGummyPvP &r %n &7           Leveling up (&b/levelup&7) will help you grind on candies!  %n&r %n&8&l&m-------------------------------------------------&r'
+   - '&8&l&m-------------------------------------------------&r %n&r %n                                        &b&lGummyPvP &r %n &7     Remember to vote (&b/vote&7) for our server every 24 hours!  %n&r %n&8&l&m-------------------------------------------------&r' 
+   - '&8&l&m-------------------------------------------------&r %n&r %n                                        &b&lGummyPvP &r %n &7          Feel free to leave us your suggestions on our discord!  %n&r %n&8&l&m-------------------------------------------------&r' 
+   - '&8&l&m-------------------------------------------------&r %n&r %n                                        &b&lGummyPvP &r %n &7           Check out our server links (&b/links&7) for our community!   %n&r %n&8&l&m-------------------------------------------------&r' 
